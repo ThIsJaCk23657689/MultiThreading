@@ -11,7 +11,9 @@ endif()
 > 注意 CMake 版本必須 >= 3.9
 
 2. Make sure your mingw has install OpenMP plugin
+
 ![](https://i.imgur.com/DitIi7Z.png)
+
 > If you are using MSVC to be the compiler, then ignore this.  
 
 3. Include `<omp.h>` header file

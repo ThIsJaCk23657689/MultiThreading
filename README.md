@@ -52,8 +52,7 @@ https://www.wikiwand.com/zh-hant/Volatile%E5%8F%98%E9%87%8F
 Sun Solaris 作業系統就使採用 UNIX International 執行緒。
 
 ### POSIX
-POSIX Threads，簡稱 PThreads，是執行緒的 POSIX 標準，用於 Unix、Linux 和 Mac OS X 等。
-標頭檔為 `<pthread.h>`。
+POSIX Threads，簡稱 PThreads，是執行緒的 POSIX 標準，用於 Unix、Linux 和 Mac OS X 等，標頭檔為 `<pthread.h>`。
 
 ### Windows
 Win32 Thread 是 Windows API 的一部分，標頭檔為 `<Windows.h>`。
@@ -62,12 +61,12 @@ Win32 Thread 是 Windows API 的一部分，標頭檔為 `<Windows.h>`。
 C++ 11 STL 提供的 `<thread>` ，基本上 Windows、Linux 都有完美支援。
 
 ## Reference
-https://blog.gtwang.org/programming/memory-layout-of-c-program/
-https://hackmd.io/@sysprog/concurrency/
-https://jenifers001d.github.io/2020/08/04/%E9%9B%BB%E8%85%A6%E7%9F%A5%E8%AD%98/what-is-core-and-thread/
-https://medium.com/ching-i/%E5%A4%9A%E5%9F%B7%E8%A1%8C%E7%B7%92-de16f92944c8
-https://zh.wikipedia.org/zh-tw/%E7%BA%BF%E7%A8%8B
-https://kheresy.wordpress.com/2012/07/06/multi-thread-programming-in-c-thread-p1/
+* https://blog.gtwang.org/programming/memory-layout-of-c-program/
+* https://hackmd.io/@sysprog/concurrency/
+* https://jenifers001d.github.io/2020/08/04/%E9%9B%BB%E8%85%A6%E7%9F%A5%E8%AD%98/what-is-core-and-thread/
+* https://medium.com/ching-i/%E5%A4%9A%E5%9F%B7%E8%A1%8C%E7%B7%92-de16f92944c8
+* https://zh.wikipedia.org/zh-tw/%E7%BA%BF%E7%A8%8B
+* https://kheresy.wordpress.com/2012/07/06/multi-thread-programming-in-c-thread-p1/
 
 ------------------------------------------------------------
-Written by ThIsJaCk.
+Written by ThIsJaCk (2022).
